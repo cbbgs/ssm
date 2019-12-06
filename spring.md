@@ -38,7 +38,7 @@ public class User {
 
 #### 三：书写配置注册对象到容器
                 位置任意，建议放在src下，配置文件名任意，但是建议用applicationContext.xml。
-！[images text](https://github.com/cbbgs/ssm/images/spring%E7%BA%A6%E6%9D%9F1.png)
+![images](https://github.com/cbbgs/ssm/images/spring%E7%BA%A6%E6%9D%9F1.png)
 
 
 
